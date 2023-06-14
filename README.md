@@ -25,8 +25,8 @@ Step 8 : Atlast , free the host and device memory then reset the device and chec
 
 ##PROGRAM:
 ```
-Developed By:  Thrikeswar P
-Reg.No:   212222230162
+Developed By:  PRAVEEN D
+Reg.No:   212222240076
   
 
 U8.cu
@@ -314,9 +314,10 @@ __global__ void reduceUnrolling16(int *g_idata, int *g_odata, unsigned int n)
 
 ## Output:
 
-![image](https://github.com/thrikesh/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/119576222/0efa5fad-d607-4755-9839-e13956aa6d26)
+![Uploading pca(ex3)a.png…]()
 
-![image](https://github.com/thrikesh/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/119576222/a731d791-a3b8-47ff-a9f4-ab6a6e357428)
+
+![pca(ex3)b](https://github.com/praveenmax55/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/113497509/635f17ed-6ea7-4eab-92be-459208e796b7)
 
 
 ## Result:
